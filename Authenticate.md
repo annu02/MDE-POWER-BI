@@ -1,4 +1,6 @@
-**Authenticate PowerBI .pbix to authenticate for API call.**
+# Authenticate PowerBI .pbix to get data using API call.
+
+Steps to Authenticate MDE.pbix ,to get MDE data for visualization. 
 
 **Connect Power BI to OData APIs**
 
