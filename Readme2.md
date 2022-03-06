@@ -1,4 +1,4 @@
-**Authenticate PowerBI worksheet to authenticate for API call.**
+**Authenticate PowerBI .pbix to authenticate for API call.**
 
 **For Connect Power BI to OData APIs**
 
