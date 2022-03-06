@@ -10,7 +10,7 @@ The dashboard is created using API and adavance hunting query. Download MDE dash
 
 
 
-**Access the Microsoft Defender for Endpoint APIs**
+# Access the Microsoft Defender for Endpoint APIs
 1. Create an app
 2. Log on to Azure with a user that has the Global Administrator role.
 3. Navigate to Azure Active Directory > App registrations > New registration.
