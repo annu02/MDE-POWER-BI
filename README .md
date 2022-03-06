@@ -1,9 +1,14 @@
 # MDE-POWER-BI Report
 
+The dashboard is created using API and adavance hunting query. Download MDE dashboard.pbix and perform the steps below to get the data in powerbi.
+
 # Steps to create a report in Power BI
 **Step1: Access the Microsoft Defender for Endpoint APIs**
 
-**Step2: **
+**Step2: Authenticate PowerBI .pbix to authenticate for API call.** (Authenticate.md file)
+
+
+
 
 **Access the Microsoft Defender for Endpoint APIs**
 1. Create an app
