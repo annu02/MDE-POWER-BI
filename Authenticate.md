@@ -1,6 +1,6 @@
 **Authenticate PowerBI .pbix to authenticate for API call.**
 
-**For Connect Power BI to OData APIs**
+**Connect Power BI to OData APIs**
 
 1. In home tab goto getdata>Blank quey
 
@@ -15,7 +15,7 @@
  ![image](https://user-images.githubusercontent.com/67975253/156937170-bac05990-5e17-4485-9df7-fdd756236d8a.png)
 
 
-4. To Connect Power BI to Advanced Hunting API use https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/api-power-bi?view=o365-worldwide#connect-power-bi-to-advanced-hunting-api
+4. To **Connect Power BI to Advanced Hunting API** use https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/api-power-bi?view=o365-worldwide#connect-power-bi-to-advanced-hunting-api
 
 
 
