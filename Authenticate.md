@@ -1,8 +1,8 @@
-# Authenticate PowerBI .pbix to get data using API call.
+# Authenticate PowerBI file to get data using API call.
 
 Steps to Authenticate MDE.pbix ,to get MDE data for visualization. 
 
-**Connect Power BI to OData APIs**
+# Connect Power BI to OData APIs
 
 1. In home tab goto getdata>Blank quey
 
