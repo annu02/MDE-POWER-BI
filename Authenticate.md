@@ -6,13 +6,14 @@
 
 ![image](https://user-images.githubusercontent.com/67975253/156931400-7edf72d3-c8b7-4834-a8cf-9f614c64a78f.png)
 
-2. Go to** New Source** > Odata feed and share api https://api.securitycenter.microsoft.com > ok.
+2. Go to **Data Source Settings** > look for https://api.securitycenter.microsoft.com , click on edit permission. Click on edit under crenditials
 
-![image](https://user-images.githubusercontent.com/67975253/156931900-ea31f0ba-9a5a-481f-a05e-942ae550b843.png)
+![image](https://user-images.githubusercontent.com/67975253/156937126-40952ba1-dc01-4337-92cb-846f2375295f.png)
 
 3. Go to Organisational account signin with the credentials.
- 
-![image](https://user-images.githubusercontent.com/67975253/156931811-2fe0ac10-0449-4f8a-9ced-9364bf52d0bf.png)
+
+ ![image](https://user-images.githubusercontent.com/67975253/156937170-bac05990-5e17-4485-9df7-fdd756236d8a.png)
+
 
 4. To Connect Power BI to Advanced Hunting API use https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/api-power-bi?view=o365-worldwide#connect-power-bi-to-advanced-hunting-api
 
