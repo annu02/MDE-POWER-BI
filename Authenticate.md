@@ -4,11 +4,11 @@ Steps to Authenticate MDE.pbix ,to get MDE data for visualization.
 
 # Connect Power BI to OData APIs
 
-1. In home tab goto getdata>Blank quey
+1. In home tab goto **Get Data** > **Blank quey**
 
 ![image](https://user-images.githubusercontent.com/67975253/156931400-7edf72d3-c8b7-4834-a8cf-9f614c64a78f.png)
 
-2. Go to **Data Source Settings** > look for https://api.securitycenter.microsoft.com , click on edit permission. Click on edit under crenditials
+2. Go to **Data Source Settings** > look for https://api.securitycenter.microsoft.com , click on **edit permission**. Click on **edit** under crenditials
 
 ![image](https://user-images.githubusercontent.com/67975253/156937126-40952ba1-dc01-4337-92cb-846f2375295f.png)
 
