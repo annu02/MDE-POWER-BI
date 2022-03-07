@@ -12,6 +12,8 @@ After completing the above two steps, visualization will be available below.
 
 **Note** : Those data which are underline in dashboard have hyperlink which take you to portal for deep dive. For example: Machine name <L1234 > has hyperlink which will directly land to the MDATP GUI of <L1234> machine. Similarly for each alert ID, Incident ID has its own hyperlink which will take it to respective alert for deep investigation.
 
+ **Few Samples of the dashboard**
+ 
 1. **Compliance** This dashboard contains machine information based on Platform, Device risk, Device exposure, MDATP health status of devices.  
 
 ![image](https://user-images.githubusercontent.com/67975253/156966139-4c9b0577-988f-41ce-aec9-39f0f6a03ad8.png)
