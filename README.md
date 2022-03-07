@@ -1,4 +1,4 @@
-# Microsoft Defender for Endpoint (MDE) POWER-BI Report
+# Microsoft Defender for Endpoint (MDE) POWERBI Report
 
 The dashboard is created using API and adavance hunting query. Download MDE dashboard.pbix and perform the steps below to get the data in powerbi.
 
